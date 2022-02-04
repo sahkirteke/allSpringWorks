@@ -1,6 +1,6 @@
 # allSpringWorks
 
-## These projects inculude all my spring framework works
+## These projects include all my spring framework works
 
 ### Contents
 
